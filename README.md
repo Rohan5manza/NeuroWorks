@@ -1,2 +1,1 @@
-# NeuroWorks
-My first start-up
+# prototype, ML visualization tool 
